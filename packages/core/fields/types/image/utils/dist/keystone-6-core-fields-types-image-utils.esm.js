@@ -1,3 +1,1 @@
-const SUPPORTED_IMAGE_EXTENSIONS = ['jpg', 'png', 'webp', 'gif'];
-
-export { SUPPORTED_IMAGE_EXTENSIONS };
+E:/Kafal Solutions/VSCode/LIBIRD/keystone6/packages/core/src/fields/types/image/utils.ts

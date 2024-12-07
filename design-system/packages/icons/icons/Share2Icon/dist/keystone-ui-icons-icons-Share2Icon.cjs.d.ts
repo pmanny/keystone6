@@ -1,2 +1,2 @@
-export * from "../../../dist/declarations/src/icons/Share2Icon.js";
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5c3RvbmUtdWktaWNvbnMtaWNvbnMtU2hhcmUySWNvbi5janMuZC50cyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL2Rpc3QvZGVjbGFyYXRpb25zL3NyYy9pY29ucy9TaGFyZTJJY29uLmQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEifQ==
+export * from "../../../src/icons/Share2Icon.js";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5c3RvbmUtdWktaWNvbnMtaWNvbnMtU2hhcmUySWNvbi5janMuZC50cyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL3NyYy9pY29ucy9TaGFyZTJJY29uLnRzeCJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiQUFBQSJ9

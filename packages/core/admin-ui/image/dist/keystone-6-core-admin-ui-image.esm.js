@@ -1,2 +1,1 @@
-export * from 'next/image';
-export { default } from 'next/image';
+E:/Kafal Solutions/VSCode/LIBIRD/keystone6/packages/core/src/admin-ui/image.tsx

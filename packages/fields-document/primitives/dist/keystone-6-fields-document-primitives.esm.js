@@ -1,10 +1,1 @@
-export { I as InlineDialog, a as ToolbarButton, b as ToolbarGroup, T as ToolbarSeparator, c as ToolbarSpacer } from '../../dist/toolbar-3bf20e44.esm.js';
-import '../../dist/orderable-c4eafa5e.esm.js';
-import '@babel/runtime/helpers/extends';
-import '@keystone-ui/core';
-import 'react';
-import '@dnd-kit/core';
-import '@dnd-kit/sortable';
-import '@dnd-kit/modifiers';
-import '@keystone-ui/button';
-import '@keystone-ui/icons/icons/Trash2Icon';
+E:/Kafal Solutions/VSCode/LIBIRD/keystone6/packages/fields-document/src/primitives.ts

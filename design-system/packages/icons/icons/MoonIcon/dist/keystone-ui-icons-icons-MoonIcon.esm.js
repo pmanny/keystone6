@@ -1,10 +1,1 @@
-import * as React from 'react';
-import { c as createIcon } from '../../../dist/Icon-289b7171.esm.js';
-import '@babel/runtime/helpers/extends';
-import '@keystone-ui/core';
-
-const MoonIcon = createIcon(/*#__PURE__*/React.createElement("path", {
-  d: "M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"
-}), 'MoonIcon');
-
-export { MoonIcon };
+E:/Kafal Solutions/VSCode/LIBIRD/keystone6/design-system/packages/icons/src/icons/MoonIcon.tsx

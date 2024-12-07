@@ -1,10 +1,1 @@
-import * as React from 'react';
-import { c as createIcon } from '../../../dist/Icon-289b7171.esm.js';
-import '@babel/runtime/helpers/extends';
-import '@keystone-ui/core';
-
-const HeartIcon = createIcon(/*#__PURE__*/React.createElement("path", {
-  d: "M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
-}), 'HeartIcon');
-
-export { HeartIcon };
+E:/Kafal Solutions/VSCode/LIBIRD/keystone6/design-system/packages/icons/src/icons/HeartIcon.tsx
