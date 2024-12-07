@@ -1,0 +1,2 @@
+export * from "../../../dist/declarations/src/icons/GitMergeIcon.js";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5c3RvbmUtdWktaWNvbnMtaWNvbnMtR2l0TWVyZ2VJY29uLmNqcy5kLnRzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vZGlzdC9kZWNsYXJhdGlvbnMvc3JjL2ljb25zL0dpdE1lcmdlSWNvbi5kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIn0=

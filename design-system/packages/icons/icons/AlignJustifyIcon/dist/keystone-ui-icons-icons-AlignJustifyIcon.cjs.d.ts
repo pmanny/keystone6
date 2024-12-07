@@ -1,0 +1,2 @@
+export * from "../../../dist/declarations/src/icons/AlignJustifyIcon.js";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5c3RvbmUtdWktaWNvbnMtaWNvbnMtQWxpZ25KdXN0aWZ5SWNvbi5janMuZC50cyIsInNvdXJjZVJvb3QiOiIiLCJzb3VyY2VzIjpbIi4uLy4uLy4uL2Rpc3QvZGVjbGFyYXRpb25zL3NyYy9pY29ucy9BbGlnbkp1c3RpZnlJY29uLmQudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IkFBQUEifQ==

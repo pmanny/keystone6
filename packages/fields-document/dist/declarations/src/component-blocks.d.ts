@@ -1,0 +1,3 @@
+export { NotEditable, component, fields } from "./DocumentEditor/component-blocks/api.js";
+export type { ArrayField, ChildField, ComponentBlock, ComponentSchema, ComponentSchemaForGraphQL, ConditionalField, FormField, InferRenderersForComponentBlocks, ObjectField, RelationshipData, RelationshipField, } from "./DocumentEditor/component-blocks/api-shared.js";
+//# sourceMappingURL=component-blocks.d.ts.map

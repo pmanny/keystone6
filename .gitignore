@@ -1,6 +1,6 @@
 .keystone/
 .next/
-dist/
+#dist/
 node_modules/
 *.db
 .env

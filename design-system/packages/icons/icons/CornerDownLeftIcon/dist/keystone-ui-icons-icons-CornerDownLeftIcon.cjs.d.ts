@@ -1,0 +1,2 @@
+export * from "../../../dist/declarations/src/icons/CornerDownLeftIcon.js";
+//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoia2V5c3RvbmUtdWktaWNvbnMtaWNvbnMtQ29ybmVyRG93bkxlZnRJY29uLmNqcy5kLnRzIiwic291cmNlUm9vdCI6IiIsInNvdXJjZXMiOlsiLi4vLi4vLi4vZGlzdC9kZWNsYXJhdGlvbnMvc3JjL2ljb25zL0Nvcm5lckRvd25MZWZ0SWNvbi5kLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiJBQUFBIn0=
